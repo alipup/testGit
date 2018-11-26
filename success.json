@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [{ "message-count": "1", "messages": [{ "to": "964778", "message-id": "0D00000092B908A6", "status": "0", "remaining-balance": "41.00507500", "message-price": "0.06000000", "network": "41805" }] }
 ,{"git": "alll"}]
 =======
 { "message-count": "1", "messages": [{ "to": "964778", "message-id": "0D00000092B908A6", "status": "0", "remaining-balance": "41.00507500", "message-price": "0.06000000", "network": "41805" }] }
 {"git":"change to commit"}
 >>>>>>> 1d3a42ba62ff8d18b2845581143f8d5708cb8e95
+=======
+{ "message-count": "1", "messages": [{ "to": "964778", "message-id": "0D00000092B908A6", "status": "0", "remaining-balance": "41.00507500", "message-price": "0.06000000", "network": "41805" }] }
+>>>>>>> parent of 1d3a42b... second commit
